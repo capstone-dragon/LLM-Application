@@ -1,5 +1,6 @@
 from ._anvil_designer import LLMTemplate
 from anvil import *
+import anvil.server
 
 class LLM(LLMTemplate):
   def __init__(self, **properties):

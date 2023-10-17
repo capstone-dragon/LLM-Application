@@ -11,4 +11,5 @@ runtime_options: {version: 2, client_version: '3', server_version: python3-sandb
   server_spec: null}
 metadata: {logo_img: 'asset:Logo.png'}
 startup_form: null
+uplink_visible: true
 renamed: true
